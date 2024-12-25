@@ -28,9 +28,9 @@ of what each of the values mean.
 
 export const info = {
     firstName: "Deepika",
-    lastName: "jain",
+    lastName: "Jain",
     initials: "dj", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "A Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Pre Final Year Student Of INGDTUW"
+            text: "Pre Final Year Student Of IGDTUW"
         },
         {
             emoji: "📧",
@@ -78,7 +78,7 @@ export const info = {
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://x.com/deepika8383",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -86,11 +86,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Deepika. I'm a Pre Final Year Student Of INGDTUW doing B.tech in Computer Science with specialisation in Artificial Intelligence.I enjoy long walks , and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "👋 Hi, I'm Deepika Jain! \nI'm a pre-final year student at IGDTUW with a passion for blending business and technology. \nFascinated by AI, I explore how it transforms industries and solves real-world problems.🚀 With curiosity and an eye for innovation, I'm ready to turn ideas into impactful solutions.Let's connect and build the future!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'nodejs', 'express','AWS'],
-            exposedTo: ['figma', 'python','tailwind','R']
+            proficientWith: ['javascript','java', 'react', 'git', 'github', 'nodejs', 'express','AWS', 'MongoDb', 'Google Sheet'],
+            exposedTo: ['figma', 'python','tailwind','R', 'VS Code', 'Postgress', 'numpy', 'panda','Power BI', 'excel']
         }
     ,
     hobbies: [
@@ -127,18 +127,18 @@ export const info = {
             live: "https://chhavi007.github.io/LiveWords/",
             source: "https://github.com/paytonjewell",
             image: mock3
+        },
+        {
+            title: "Bingo, Sudoku, Tick-Tac-Toe",
+            live: "https://game-by-deepika.vercel.app/",
+            source: "https://github.com/Deepika8383/game",
+            image: mock4
+        },
+        {
+            title: "Tracker",
+            live: "https://tracker-sigma-three.vercel.app/",
+            source: "https://github.com/Deepika8383/tracker",
+            image: mock5
         }
-        // {
-        //     title: "Project 4",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock4
-        // },
-        // {
-        //     title: "Project 5",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock5
-        // }
     ]
 }
