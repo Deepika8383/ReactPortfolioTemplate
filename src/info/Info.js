@@ -4,10 +4,13 @@ import travel from "../img/travelSafe.png"
 import liveWord from "../img/liveWord.png"
 import game from "../img/game.png"
 import tracker from "../img/tracker.png"
+import hospitEase from "../img/hospitEase.png"
+import IdVerification from "../img/IdVerification.png"
+import jainCatering from "../img/jainCatering.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
-export let singlePage = true;
+export let singlePage = false;
 
 export const info = {
     firstName: "Deepika",
@@ -68,7 +71,7 @@ export const info = {
         },
 
     ],
-    bio: "👋 Hi, I'm Deepika Jain! \nI'm a final year student at IGDTUW with a passion for blending business and technology. \nFascinated by AI, I explore how it transforms industries and solves real-world problems.🚀 With curiosity and an eye for innovation, I'm ready to turn ideas into impactful solutions.Let's connect and build the future!",
+    bio: "👋 Hi, I'm Deepika Jain! \n I'm a final year student at IGDTUW with a passion for blending business and technology. \nFascinated by AI, I explore how it transforms industries and solves real-world problems.🚀 With curiosity and an eye for innovation, I'm ready to turn ideas into impactful solutions.Let's connect and build the future!",
     skills:
         {
             proficientWith: ['javascript','java', 'react', 'git', 'github', 'nodejs', 'express','AWS', 'MongoDb', 'Google Sheet'],
@@ -120,6 +123,24 @@ export const info = {
             live: "https://tracker-sigma-three.vercel.app/",
             source: "https://github.com/Deepika8383/tracker",
             image: tracker
-        }
+        },
+        {
+            title: "HospitEase",
+            live: "https://katalyst-hack-frontend.vercel.app/",
+            source: "https://github.com/Deepika8383/katalystHack_frontend",
+            image: hospitEase
+        },
+        {
+            title: "Digital Id Verification",
+            // live: "https://katalyst-hack-frontend.vercel.app/",
+            source: "https://github.com/Deepika8383/Zynga_hackthon",
+            image: IdVerification
+        },
+        {
+            title: "Digital Id Verification",
+            live: "https://jain-catering-git-main-deepika-jains-projects.vercel.app/",
+            source: "https://github.com/Deepika8383/Catering-website",
+            image: jainCatering
+        },
     ]
 }
