@@ -4,7 +4,7 @@
 
 ![screenshot](/src/img/image.png)
 
-[View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
+[View Live Template](https://reactportfoliotemplate.paytonpierce.dev/](https://react-portfolio-template-deepika-jains-projects.vercel.app/))
 
 ## features
 
