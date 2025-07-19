@@ -31,7 +31,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Pre Final Year Student Of IGDTUW"
+            text: "Final Year Student Of IGDTUW"
         },
         {
             emoji: "📧",
@@ -40,9 +40,9 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
+            link: "https://drive.google.com/file/d/1Z9bJM6q71wIvSZUN_zWrefMLZ7IJFP-h/view?usp=sharing", // Replace with the actual URL to your resume (e.g., a PDF hosted online)
+            icon: "fa fa-file",
+            label: 'Resume'
         },
         {
             link: "https://www.instagram.com/deepika_jain_8383/",
@@ -53,11 +53,6 @@ export const info = {
             link: "https://github.com/deepika8383/",
             icon: "fa fa-github",
             label: 'github'
-        },
-        {
-            link: "https://drive.google.com/file/d/1Z9bJM6q71wIvSZUN_zWrefMLZ7IJFP-h/view?usp=sharing", // Replace with the actual URL to your resume (e.g., a PDF hosted online)
-            icon: "fa fa-file",
-            label: 'Resume'
         },
         {
             link: "https://www.linkedin.com/in/deepika-jain-521b58259/",
