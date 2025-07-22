@@ -7,6 +7,7 @@ import tracker from "../img/tracker.png"
 import hospitEase from "../img/hospitEase.png"
 import IdVerification from "../img/IdVerification.png"
 import jainCatering from "../img/jainCatering.png"
+import ecommerce from "../img/ecommerce.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -89,6 +90,12 @@ export const info = {
 
     ],
     portfolio: [ 
+        {
+            title: "E-Commerce With Admin Dashbored",
+            live: "https://www.linkedin.com/posts/deepika-jain-521b58259_reactjs-mongodb-nodejs-activity-7352931857908314112-6zhB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1YekBhmlbbxY-2waLh5lXvbHlOZHBLy8", 
+            source: "https://github.com/geeta614/ecommerce-with-admin-dashboard",
+            image: ecommerce
+        },
         {
             title: "Travel Safe: Empowering Women's Journey with Visual Protection",
             live: "https://www.youtube.com/watch?si=_H_rV2QehC5sVg8a&v=Ti_aAJSb9oQ&feature=youtu.be", 
